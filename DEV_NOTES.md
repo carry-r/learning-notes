@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cross-checked behaviour against spec
 - Reorganised test fixtures
+
+## 2026-03-23
+- Added type hints to helper functions
+- Verified API endpoint response schema
+- Improved log message formatting
