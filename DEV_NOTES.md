@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Drafted initial implementation plan for v2
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Cross-checked behaviour against spec
+- Reorganised test fixtures
