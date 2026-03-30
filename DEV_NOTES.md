@@ -23,3 +23,6 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Fixed off-by-one error in loop
 - Documented config options
+
+## 2026-03-30
+- Resolved TODO items from previous session
