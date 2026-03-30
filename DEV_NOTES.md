@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Verified API endpoint response schema
 - Improved log message formatting
+
+## 2026-03-30
+- Drafted initial implementation plan for v2
+- Fixed off-by-one error in loop
+- Documented config options
